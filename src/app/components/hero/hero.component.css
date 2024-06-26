@@ -1,0 +1,45 @@
+
+
+#big-image{
+    height: 500px;
+    width: 100%;
+    border-radius: 45%;
+    
+}
+
+#name-text{
+    margin-left: 40px;
+    font-size: 3em;
+    color: #b24bf3;
+}
+
+#about-me-text{
+    font-size: 1.2rem;
+    margin-left: 40px;
+}
+
+#mobile-app-text{
+    font-size: 2em;
+    margin-left: 65px;
+}
+
+#front-end-text{
+    font-size: 2em;
+    margin-left: 65px;
+}
+
+#my-project-text{
+    text-align: center;
+    font-size: 2.5rem;
+    word-spacing: 2px;
+
+}
+
+#project-text{
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.projects-class{
+    font-size: 1.05rem;
+}

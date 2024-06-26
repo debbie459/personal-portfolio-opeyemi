@@ -1,0 +1,33 @@
+#o-logo{
+    width: 50px;
+    height: 50px;
+
+}
+
+#my-name-text{
+   font-size: 1.5rem;
+   margin-left: 20px;
+}
+
+#resume-text{
+    color: antiquewhite;
+    font-size: 1.3rem;
+}
+
+#resume-text:hover{
+    color: rgb(215, 132, 215);
+    font-size: 1.5rem;
+}
+
+#contact-text{
+    color: antiquewhite;
+    font-size: 1.3rem;
+   
+}
+
+#contact-text:hover{
+    color: rgb(215, 132, 215);
+    font-size: 1.5rem;
+}
+
+

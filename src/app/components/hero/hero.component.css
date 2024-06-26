@@ -43,3 +43,7 @@
 .projects-class{
     font-size: 1.05rem;
 }
+
+#hero{
+    border-radius: 25px;
+}
